@@ -1,0 +1,9 @@
+Package: com.midnightchips.cleantab
+Name: Clean Tab
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove iOS Tab Bar Labels
+Maintainer: midnightchips
+Author: midnightchips
+Section: Tweaks
